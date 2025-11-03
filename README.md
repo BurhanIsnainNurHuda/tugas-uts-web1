@@ -105,3 +105,5 @@ Website ini dibuat untuk memenuhi requirements tugas UTS:
 **Catatan:** Project ini menggunakan client-side JavaScript dan LocalStorage untuk simulasi database.
 
 ## Hasil Screenshoot
+<img width="1918" height="951" alt="image" src="https://github.com/user-attachments/assets/c0099f07-845a-4f1c-b40c-9fdfeaa72593" />
+
