@@ -106,4 +106,11 @@ Website ini dibuat untuk memenuhi requirements tugas UTS:
 
 ## Hasil Screenshoot
 <img width="1918" height="951" alt="image" src="https://github.com/user-attachments/assets/c0099f07-845a-4f1c-b40c-9fdfeaa72593" />
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/eeefcb2d-25f2-4901-bb98-8bb7b0885390" />
+
+<img width="1894" height="953" alt="image" src="https://github.com/user-attachments/assets/2989d85e-e177-45fb-b513-27089f4f3efb" />
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/235e4439-4c96-4b5c-9080-a7ea7b373f61" />
+<img width="1918" height="951" alt="image" src="https://github.com/user-attachments/assets/636b1709-bf69-4a7d-8e9a-1db695d3cf65" />
+
+
 
